@@ -104,18 +104,5 @@ The course is divided into several chapters, each focusing on different aspects 
 
 Each chapter contains problem sets to test your understanding and to practice coding. The problem sets include various challenges and exercises relevant to the chapter's content.
 
-## Additional Resources
 
-- **[Download the Handbook](https://github.com/CodeWithHarry/The-Ultimate-Python-Course/blob/main/The%20Ultimate%20Python%20Handbook.pdf)**
-- **[Download the Handwritten Notes](https://www.codewithharry.com/notes)**
-- **[Download the Ultimate Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet/)**
 
-## How to Use This Repository
-
-1. **Clone the repository** to your local machine using:
-   ```sh
-   git clone https://github.com/CodeWithHarry/The-Ultimate-Python-Course.git
-   ```
-2. **Navigate through the chapters** to find the relevant lessons and code examples.
-3. **Complete the problem sets** provided at the end of each chapter to solidify your understanding.
-4. **Work on the projects** to apply your knowledge in real-world scenarios.
