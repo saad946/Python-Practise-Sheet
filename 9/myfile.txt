@@ -1,0 +1,1 @@
+Hey saad, this is a sample Python code. It contains comments and docstrings.
